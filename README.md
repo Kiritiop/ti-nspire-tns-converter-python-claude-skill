@@ -1,4 +1,4 @@
-# ToTNS
+# To_TNS_converter
 
 A skill for Claude Code and OpenCode that converts any document (PDF, DOCX, TXT, XLSX, CSV, HTML, RTF, MD) into a `.tns` Notes file readable on a TI-Nspire graphing calculator.
 
